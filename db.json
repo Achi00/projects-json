@@ -3,67 +3,67 @@
         {
             "id": "1",
             "name": "Ecommerce Online Store",
-            "image": "./images/ecommerce.png",
+            "image": "https://photos.google.com/photo/AF1QipPXs3clqBAGsslJTB7I1u_L2ItW6WvnRwV_WyS-",
             "url": "ecommerce-achi00.vercel.app"
         },
         {
             "id": "2",
             "name": "Design Inspiration App", 
-            "image": "./images/design.png",
+            "image": "https://photos.google.com/photo/AF1QipP5AFcL28G0uR-SIPbsElqng3PJhltbTx1FAJyM",
             "url": "inspiration-t2d4.vercel.app/"
         },
         {
             "id": "3",
             "name": "Cryptocurrency Prices, News",
-            "image": "./images/crypto.png",
+            "image": "https://photos.google.com/photo/AF1QipNmsdwRHW5GT4ZU33AjSXiStJJio5Sm0GiElqHQ",
             "url": "crypto1-currency.netlify.app/"
         },
         {
             "id": "4",
             "name": "Spotify Clone",
-            "image": "./images/musicapp.jpg",
+            "image": "https://photos.google.com/photo/AF1QipPcetXZXIoHT7Xwmv2miK1rzKgGZ_Ogre3836Ay",
             "url": "https://music-clone-app.netlify.app/"
         },
         {
             "id": "5",
             "name": "Youtube Clone",
-            "image": "./images/youtube.jpg",
+            "image": "https://photos.google.com/photo/AF1QipPONRk2JZ70VrnugK5JM7lUuk5B4iPyOzROVvFz",
             "url": "youtube-main-clone.netlify.app/"
         },
         {
             "id": "6",
             "name": "Google Search",
-            "image": "./images/google.jpg",
-            "url": ""
+            "image": "https://photos.google.com/photo/AF1QipPxTz7V2-3UgzoZuxPa63MuA8sCgS02BoSZW3Ds",
+            "url": "https://my-googlesearch.netlify.app/search"
         },
         {
             "id": "7",
             "name": "Landing Page",
-            "image": "./images/world.jpg",
+            "image": "https://photos.google.com/photo/AF1QipMF5-YKnTnPRd7TntYhxM_XtTj2Vbaci4Wo20BW",
             "url": "https://world-web.netlify.app/index.html"
         },
         {
             "id": "8",
             "name": "Charts & Data",
             "image": "./images/dash.png",
-            "url": "e-dashboards.netlify.app/"
+            "url": "https://photos.google.com/photo/AF1QipMio1Gswhx2guJTIkuo91Kc_T03b6e7NUlSH07A/"
         },
         {
             "id": "9",
             "name": "Creative Agency",
-            "image": "./images/retro.jpg",
+            "image": "https://photos.google.com/photo/AF1QipPt4bmEgC45pZpW_IwVfGOoeBjhF5jhxjicdajI",
             "url": "https://retro-agency.netlify.app/"
         },
         {
             "id": "10",
             "name": "Car Show",
             "image": "./images/carshow.jpg",
-            "url": "car-show.netlify.app/"
+            "url": "https://photos.google.com/photo/AF1QipNhpKpGOucQuP281P5GwJdRN0sp6tT5ssRpkGIY"
         },
         {
             "id": "11",
             "name": "Landing Page",
-            "image": "./images/load.jpg",
+            "image": "https://photos.google.com/photo/AF1QipNZPy55wd1xznSby_TQw-FvOKKPwDKC-vnytL_4",
             "url": "https://webwithintro.netlify.app/"
         }
     ]
