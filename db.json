@@ -1,0 +1,70 @@
+{
+    "projects":[
+        {
+            "id": "1",
+            "name": "Ecommerce Online Store",
+            "image": "./images/ecommerce.png",
+            "url": "ecommerce-achi00.vercel.app"
+        },
+        {
+            "id": "2",
+            "name": "Design Inspiration App", 
+            "image": "./images/design.png",
+            "url": "inspiration-t2d4.vercel.app/"
+        },
+        {
+            "id": "3",
+            "name": "Cryptocurrency Prices, News",
+            "image": "./images/crypto.png",
+            "url": "crypto1-currency.netlify.app/"
+        },
+        {
+            "id": "4",
+            "name": "Spotify Clone",
+            "image": "./images/musicapp.jpg",
+            "url": "https://music-clone-app.netlify.app/"
+        },
+        {
+            "id": "5",
+            "name": "Youtube Clone",
+            "image": "./images/youtube.jpg",
+            "url": "youtube-main-clone.netlify.app/"
+        },
+        {
+            "id": "6",
+            "name": "Google Search",
+            "image": "./images/google.jpg",
+            "url": ""
+        },
+        {
+            "id": "7",
+            "name": "Landing Page",
+            "image": "./images/world.jpg",
+            "url": "https://world-web.netlify.app/index.html"
+        },
+        {
+            "id": "8",
+            "name": "Charts & Data",
+            "image": "./images/dash.png",
+            "url": "e-dashboards.netlify.app/"
+        },
+        {
+            "id": "9",
+            "name": "Creative Agency",
+            "image": "./images/retro.jpg",
+            "url": "https://retro-agency.netlify.app/"
+        },
+        {
+            "id": "10",
+            "name": "Car Show",
+            "image": "./images/carshow.jpg",
+            "url": "car-show.netlify.app/"
+        },
+        {
+            "id": "11",
+            "name": "Landing Page",
+            "image": "./images/load.jpg",
+            "url": "https://webwithintro.netlify.app/"
+        }
+    ]
+}
