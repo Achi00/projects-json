@@ -4,67 +4,78 @@
             "id": "1",
             "name": "Ecommerce Online Store",
             "image": "https://portfolio-photos.netlify.app/images/ecommerce.png",
-            "url": "ecommerce-achi00.vercel.app"
+            "url": "https://ecommerce-achi00.vercel.app",
+            "github": "https://github.com/Achi00/ecommerce"
         },
         {
             "id": "2",
             "name": "Design Inspiration App", 
             "image": "https://portfolio-photos.netlify.app/images/desing.png",
-            "url": "inspiration-t2d4.vercel.app/"
+            "url": "https://inspiration-t2d4.vercel.app/",
+            "github": "https://github.com/Achi00/inspiration"
         },
         {
             "id": "3",
             "name": "Cryptocurrency Prices, News",
             "image": "https://portfolio-photos.netlify.app/images/crypto.png",
-            "url": "crypto1-currency.netlify.app/"
+            "url": "https://crypto1-currency.netlify.app/",
+            "github": "https://github.com/Achi00/cryptoapp"
         },
         {
             "id": "4",
             "name": "Spotify Clone",
             "image": "https://portfolio-photos.netlify.app/images/musicapp.jpg",
-            "url": "https://music-clone-app.netlify.app/"
+            "url": "https://music-clone-app.netlify.app/",
+            "github": "https://github.com/Achi00/spotify"
         },
         {
             "id": "5",
             "name": "Youtube Clone",
             "image": "https://portfolio-photos.netlify.app/images/youtube.jpg",
-            "url": "youtube-main-clone.netlify.app/"
+            "url": "https://youtube-main-clone.netlify.app/",
+            "github": "https://github.com/Achi00/youtube"
         },
         {
             "id": "6",
             "name": "Google Search",
             "image": "https://portfolio-photos.netlify.app/images/google.jpg",
-            "url": "https://my-googlesearch.netlify.app/search"
+            "url": "https://my-googlesearch.netlify.app/search",
+            "github": "https://github.com/Achi00/google"
         },
         {
             "id": "7",
             "name": "Landing Page",
             "image": "https://portfolio-photos.netlify.app/images/world.jpg",
-            "url": "https://world-web.netlify.app/index.html"
+            "url": "https://world-web.netlify.app/index.html",
+            "github": "/"
         },
         {
             "id": "8",
             "name": "Charts & Data",
             "image": "https://portfolio-photos.netlify.app/images/dash.png",
-            "url": "https://e-dashboards.netlify.app/"
+            "url": "https://e-dashboards.netlify.app/",
+            "github": "https://github.com/Achi00/dashboard"
         },
         {
             "id": "9",
             "name": "Creative Agency",
             "image": "https://portfolio-photos.netlify.app/images/retro.jpg",
-            "url": "https://retro-agency.netlify.app/"
+            "url": "https://retro-agency.netlify.app/",
+            "github": "https://github.com/Achi00/retro"
         },
         {
             "id": "10",
             "name": "Car Show",
             "image": "https://portfolio-photos.netlify.app/images/carshow.jpg",
-            "url": "https://car-show.netlify.app/"
+            "url": "https://car-show.netlify.app/",
+            "github": "https://github.com/Achi00/car-web/tree/main/responsive%20web"
         },
         {
             "id": "11",
             "name": "Landing Page",
             "image": "https://portfolio-photos.netlify.app/images/load.jpg",
-            "url": "https://webwithintro.netlify.app/"
+            "url": "https://webwithintro.netlify.app/",
+            "github": "/"
         }
     ]
 }
