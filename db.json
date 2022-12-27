@@ -45,8 +45,8 @@
         {
             "id": "8",
             "name": "Charts & Data",
-            "image": "./images/dash.png",
-            "url": "https://portfolio-photos.netlify.app/images/dash.png"
+            "image": "https://portfolio-photos.netlify.app/images/dash.png",
+            "url": "https://e-dashboards.netlify.app/"
         },
         {
             "id": "9",
@@ -57,8 +57,8 @@
         {
             "id": "10",
             "name": "Car Show",
-            "image": "./images/carshow.jpg",
-            "url": "https://portfolio-photos.netlify.app/images/carshow.jpg"
+            "image": "https://portfolio-photos.netlify.app/images/carshow.jpg",
+            "url": "https://car-show.netlify.app/"
         },
         {
             "id": "11",
