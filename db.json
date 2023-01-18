@@ -15,6 +15,14 @@
             "github": "https://github.com/Achi00/inspiration"
         },
         {
+            "id": "12",
+            "name": "Exercises App", 
+            "image": "https://portfolio-photos.netlify.app/images/exercises.jpg",
+            "url": "https://fitness-exercises0.netlify.app/",
+            "github": "https://github.com/Achi00/exercises"
+        },
+
+        {
             "id": "3",
             "name": "Cryptocurrency Prices, News",
             "image": "https://portfolio-photos.netlify.app/images/crypto.png",
